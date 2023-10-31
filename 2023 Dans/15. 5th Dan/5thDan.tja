@@ -13,7 +13,7 @@ BALLOON:
 EXAM1:g,99,100,m
 EXAM2:a,89,91,m
 EXAM3:jb,30,14,l
-DANTICK:5
+DANTICK:1
 DANTICKCOLOR:#00afff
 #START
 #NEXTSONG The World of Our Past,DashyDesu & rainfall,,world.ogg,350,80,8,3

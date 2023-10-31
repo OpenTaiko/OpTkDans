@@ -13,7 +13,7 @@ BALLOON:
 EXAM1:g,99,100,m
 EXAM2:a,85,87,m
 EXAM3:jb,33,16,l
-DANTICK:5
+DANTICK:1
 DANTICKCOLOR:#00ffcb
 #START
 #NEXTSONG Fearless,Ash Electric,,Fearless.ogg,350,80,7,3

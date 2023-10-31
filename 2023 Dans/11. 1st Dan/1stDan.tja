@@ -13,7 +13,7 @@ BALLOON:21
 EXAM1:g,97,100,m
 EXAM2:a,81,83,m
 EXAM3:jb,26,13,l
-DANTICK:5
+DANTICK:1
 DANTICKCOLOR:#00ff77
 #START
 #NEXTSONG Startup Parade!,Ryuto Setsujin,,Startup Parade!.ogg,350,80,5,3
