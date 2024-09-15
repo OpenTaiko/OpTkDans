@@ -1,2 +1,2 @@
 # OpTkDans
-Current &amp; past official Dans &amp; Gaidens for OpenTaiko
+Current and past Dans/Gaidens for [OpenTaiko](https://github.com/0auBSQ/OpenTaiko).
